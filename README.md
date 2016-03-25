@@ -1,4 +1,4 @@
-# hello-word
+﻿# hello-word
 first use
 
 not lovely 
@@ -12,3 +12,4 @@ pull
 ————————————————————————————
 get pull feach commit merge
 >>>>>>> c371ecddd64d515b41549d0d310ed31459046478
+fdgsdfgsd
